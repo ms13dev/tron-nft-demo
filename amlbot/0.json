@@ -1,0 +1,16 @@
+{
+  "name": "AML Verification Request",
+  "description": "AMLBot test NFT on TRON Shasta, used to verify wallet image and metadata display. Website: https://amlclear.org/",
+  "image": "https://ms13dev.github.io/tron-nft-demo/amlbot/nft.png",
+  "external_url": "https://amlclear.org/",
+  "attributes": [
+    {
+      "trait_type": "Project",
+      "value": "AMLBot"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Shasta"
+    }
+  ]
+}
