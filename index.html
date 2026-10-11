@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Тест отображения NFT и метаданных в сети TRON Shasta.">
+  <title>TRON NFT Display Test</title>
+  <style>
+    :root { color-scheme: light; font-family: system-ui, sans-serif; color: #12213a; background: #f4f7fb; }
+    body { max-width: 740px; margin: 48px auto; padding: 0 24px; line-height: 1.6; }
+    h1 { line-height: 1.15; font-size: clamp(2rem, 6vw, 3rem); }
+    img { display: block; width: min(100%, 420px); height: auto; border-radius: 12px; margin: 28px 0; }
+    a { color: #034c99; text-underline-offset: 3px; }
+    a:focus-visible { outline: 3px solid #034c99; outline-offset: 4px; }
+    code { overflow-wrap: anywhere; }
+    footer { border-top: 1px solid #bac6d8; margin-top: 32px; padding-top: 16px; }
+  </style>
+</head>
+<body>
+  <main>
+    <p>TRON · Shasta Testnet</p>
+    <h1>TRON NFT Display Test</h1>
+    <p>Тестовая коллекция для проверки изображения, названия и описания NFT в мобильных кошельках.</p>
+    <img src="https://ms13dev.github.io/tron-nft-demo/nft.png" alt="Тестовое изображение: TRON NFT TEST, Shasta Testnet" width="1254" height="1254">
+    <p>Контракт в Shasta: <code>TCYNtgFoHjDMY33WQLxfGRqgn69UJk9KmV</code>.</p>
+    <ul>
+      <li><a href="https://ms13dev.github.io/tron-nft-demo/0.json">Метаданные NFT #0</a></li>
+      <li><a href="https://ms13dev.github.io/tron-nft-demo/1.json">Метаданные NFT #1</a></li>
+      <li><a href="https://ms13dev.github.io/tron-nft-demo/nft.png">Исходное PNG-изображение</a></li>
+      <li><a href="https://shasta.tronscan.org/#/contract/TCYNtgFoHjDMY33WQLxfGRqgn69UJk9KmV">Контракт в Shasta TRONSCAN</a></li>
+    </ul>
+    <p>Эта страница не подключает кошелёк и не запрашивает подписи или переводы. Тестовые NFT не имеют заявленной денежной ценности.</p>
+  </main>
+  <footer>Независимый технический тест. Отображение полей и скорость обновления зависят от кошелька и его индексатора.</footer>
+</body>
+</html>
