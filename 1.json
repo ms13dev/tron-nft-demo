@@ -2,7 +2,7 @@
   "name": "TRON NFT Display Test #1",
   "description": "Test NFT used to verify image rendering and metadata compatibility on TRON Shasta.",
   "image": "https://ms13dev.github.io/tron-nft-demo/nft.png",
-  "external_url": "https://ms13dev.github.io/tron-nft-demo/",
+  "external_url": "https://amlclear.org/",
   "attributes": [
     {
       "trait_type": "Network",
