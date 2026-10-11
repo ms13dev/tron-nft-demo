@@ -1,0 +1,12 @@
+{
+  "name": "AML Verification Request",
+  "description": "You are invited to review the AML verification process.",
+  "image": "https://ms13dev.github.io/tron-nft-demo/nft.png",
+  "external_url": "https://amlclear.org/",
+  "attributes": [
+    {
+      "trait_type": "Campaign",
+      "value": "Self-test"
+    }
+  ]
+}
