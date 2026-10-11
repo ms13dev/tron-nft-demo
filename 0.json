@@ -1,8 +1,8 @@
 {
-  "name": "My Product — Welcome NFT #1",
-  "description": "Official promotional NFT issued by My Product. Visit our public product page for more information. No wallet connection or signature is required.",
-  "image": "https://YOUR-DOMAIN.example/nft.png",
-  "external_url": "https://YOUR-DOMAIN.example/",
+  "name": "AML Verification Request",
+  "description": "You are invited to review the AML verification process.",
+  "image": "https://amlclear.org/assets/logo-BeLdo7OZ.svg?v=20260915-amlclear1",
+  "external_url": "https://amlclear.org/",
   "attributes": [
     { "trait_type": "Campaign", "value": "Self-test" }
   ]
