@@ -1,0 +1,9 @@
+{
+  "name": "My Product — Welcome NFT #1",
+  "description": "Official promotional NFT issued by My Product. Visit our public product page for more information. No wallet connection or signature is required.",
+  "image": "https://YOUR-DOMAIN.example/nft.png",
+  "external_url": "https://YOUR-DOMAIN.example/",
+  "attributes": [
+    { "trait_type": "Campaign", "value": "Self-test" }
+  ]
+}
