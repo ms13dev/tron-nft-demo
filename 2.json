@@ -1,0 +1,16 @@
+{
+  "name": "TRON NFT Display Test #2",
+  "description": "Shasta test NFT using the owner's artwork. Website: https://amlclear.org/",
+  "image": "https://ms13dev.github.io/tron-nft-demo/nft-2-437205ca.png",
+  "external_url": "https://amlclear.org/",
+  "attributes": [
+    {
+      "trait_type": "Network",
+      "value": "Shasta"
+    },
+    {
+      "trait_type": "Purpose",
+      "value": "Wallet compatibility test"
+    }
+  ]
+}
